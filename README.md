@@ -1,5 +1,5 @@
 ### Blog </br>
-A blog system where users can write blogs, comment and update contents. <br/>
+A blog application on which users can write blogs, comment and update contents. <br/>
 
 ### Screenshots:</br>
 #### Homepage:
