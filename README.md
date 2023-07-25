@@ -1,5 +1,5 @@
 ### Blog </br>
-A blog application on which users can write blogs, comment and update contents. <br/>
+A blog application written by MERN stack. Users can search blogs using a Material UI autocomplete box, post/update/delete blogs, and post/update/delete comments. The application focus on the style of the user interface. <br/>
 
 ### Screenshots:</br>
 #### Homepage:
